@@ -1,2 +1,0 @@
-# COMPUTER-NETWORKS-LAB
-Anusha M S (4VV18CS017) CSE 5th Sem 'A' Section
